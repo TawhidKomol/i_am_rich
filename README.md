@@ -1,6 +1,6 @@
 # i_am_rich
 
-A new Flutter project.
+I am rich is a flutter practice project.
 
 ## Project Screenshots
 
